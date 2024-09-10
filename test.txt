@@ -4,3 +4,7 @@ Second sentence, but not really a sentence.
 This is a third sentence.
 Adding a sentence to the end on GitHub.
 Another sentence to test VSCode.
+
+
+
+Making a local change in parallel.
